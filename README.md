@@ -1,3 +1,3 @@
-# Patient tracking for vets using Vue 3, Vite and Tailwind
+## Patient tracking for vets using Vue 3, Vite and Tailwind
 
-## Test it at: 
+### Test it at: 
